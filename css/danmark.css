@@ -1,7 +1,9 @@
 html {
     font-style: inherit; 
-    background-color: rgb(72, 241, 171);
-}
+    background: url(http://winnerhun.uw.hu/vigyorpofa.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}   
 .top {
     font-family: 'Franklin Gothic Medium';
     font-size: 12px;
