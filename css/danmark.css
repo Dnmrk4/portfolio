@@ -1,10 +1,10 @@
 html {
-    font-style: inherit; 
+    font-style: inherit;
     background: url(../img/mrk.gif);
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Shadows Into Light', cursive;
-}   
+}
 .top {
     font-size: 12px;
 }
@@ -20,4 +20,11 @@ h1 {
 }
 img {
     border-radius: 50%;
+}
+p {
+    position: center;
+    font-size: 7000px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    padding-top: 2000px;
 }
